@@ -1,0 +1,24 @@
+.bg1 {background-color: aqua;}
+.menu a {font-size: 20px; text-transform: uppercase;font-family: 'Montserrat', sans-serif;}
+
+.navbar-light .navbar-nav .nav-link 
+{color:black}
+
+.navbar-light .navbar-nav .nav-link:hover 
+{color:rgb(207, 58, 133)}
+
+.parte1 {background-image: url("fondo1.jpg");
+    background-repeat: no-repeat;
+    background-position:center center ;
+    background-attachment: fixed;
+    background-size: cover;padding: 5%}
+
+.merch h1 {font-size: 40px; text-transform: uppercase;font-family: 'Montserrat', sans-serif;}
+
+.parte2 {background-image: url("fondo1.jpg");
+    background-repeat: no-repeat;
+    background-position:center center ;
+    background-attachment: fixed;
+    background-size: cover;padding: 5%}
+
+.espacio { background-color: white;font-size: 20px;font-family: 'Montserrat', sans-serif;text-align: center;}
